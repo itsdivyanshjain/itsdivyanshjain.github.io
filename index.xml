@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wisdom Around</title>
+    <link>https://wisdomaround.github.io/</link>
+    <description>Recent content on Wisdom Around</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wisdomaround.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://wisdomaround.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wisdomaround.github.io/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a &lt;strong&gt;Security Researcher&lt;/strong&gt; and I&amp;rsquo;m curious about &lt;strong&gt;Hacking&lt;/strong&gt;, &lt;strong&gt;Security Automation&lt;/strong&gt; and &lt;strong&gt;OPSec&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;But this would be more than just tech/security blog, it could be just me or the ideas which have helped me to expand my views.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Application Security Analyst&lt;/strong&gt; — &lt;a&#xA;  href=&#34;https://checkmarx.com&#34;&#xA;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;  class=&#34;md-link&#34;&#xA;&gt;&#xA;  Checkmarx&#xA;&lt;/a&gt;&#xA;&#xA;&lt;em&gt;Present • Pune, India&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Work on SCA Research&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>
